@@ -39,4 +39,4 @@ Best model accuracy: **84%**
 
 - Hyperparameter tuning
 - XGBoost
-- Deploy as a web application
+
