@@ -30,7 +30,6 @@ Kaggle Titanic Dataset
 
 - Logistic Regression
 - Random Forest
-- Decision Tree
 
 ## Results
 
